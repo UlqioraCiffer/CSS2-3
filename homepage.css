@@ -1,0 +1,269 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+.first {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 24px;
+    margin-left: 171px;
+}
+
+nav img {
+    vertical-align: middle;
+}
+
+.contact {
+    border: 1px solid #8E26C0;
+    border-radius: 8px 8px 8px 8px;
+    align-items: center;
+    color: #8E26C0;
+    padding: 8px 16px;
+    font-size: 14px;
+    margin-left: 171px;
+    cursor: pointer;
+}
+
+.navigator {
+    margin-left: auto;
+    max-width: 1231px;
+    width: 100%;
+    background: #F7F4FF;
+}
+
+.first a {
+    text-decoration: none;
+    font-size: 18px;
+    line-height: normal;
+    color: #332233;
+    margin-left: 20px;
+}
+
+span {
+    color: #8E26C0;
+}
+
+.container {
+    width: 100%;
+    max-width: 1900px;
+}
+
+.imagecontainer,
+.textcontainer {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 174px;
+}
+
+.textcontainer {
+    margin-left: 30px;
+}
+
+.textcontainer h2 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.textcontainer p {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #535862;
+}
+
+.textcontainer ol {
+    font-size: 24px;
+    text-align: left;
+    padding-left: 24px;
+    margin-bottom: 12px;
+    color: #000000;
+    line-height: 32px;
+    padding-left: 72px;
+}
+
+.pone {
+    width: 100%;
+    max-width: 640px;
+    margin-right: 440px;
+    padding-left: 50px;
+}
+
+.pone h2 {
+    text-align: center;
+}
+
+.contactone {
+    text-align: center;
+    max-width: 100%;
+    width: 905px;
+    margin: 83px;
+    margin-left: 340px;
+}
+
+.contactone h3 {
+    font-size: 56px;
+    color: black;
+}
+
+.contactone p {
+    font-size: 20px;
+    color: #535862;
+}
+
+.contacttwo {
+    width: 100%;
+    max-width: 1450px;
+    border: 1px solid #F7F4FF;
+    border-radius: 16px;
+    background-color: #F7F4FF;
+    padding: 32px;
+    margin-right: 600px;
+}
+
+.addres {
+    display: inline-block;
+    border-radius: 16px;
+    padding: 28px;
+    background-color: white;
+    height: 403px;
+}
+
+
+.addresimgone {
+    vertical-align: middle;
+}
+
+.addrespone {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.phoneimg {
+    vertical-align: middle;
+}
+
+.addresptwo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.emailimg {
+    vertical-align: middle;
+}
+
+.addrespthree {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.addresdive {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.fullname {
+    max-width: 760px;
+    width: 100%;
+    display: inline-block;
+    margin-left: 24px;
+}
+
+.textone {
+    display: block;
+    margin-top: 16px;
+}
+
+#text {
+    border-radius: 8px 8px 8px 8px;
+    border: 1px solid #8E26C0;
+    width: 759px;
+    padding: 8px 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#textareaone {
+    margin-top: 20px;
+    display: block;
+    resize: none;
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+    max-width: 760px;
+    width: 100%;
+    height: 100px;
+    color: #6D5F8B;
+    padding-left: 16px;
+}
+
+.buttonsend {
+    text-align: right;
+}
+
+#buttonsendone {
+    width: 140px;
+    margin-top: 20px;
+    border: solid #8E26C0;
+    background-color: #8E26C0;
+    border-radius: 8px;
+    color: white;
+    height: 36px;
+    font-size: 16px;
+}
+
+.main_footer {
+    background-color: #53389E;
+    margin-top:163px;
+    padding-top:64px;
+    padding-bottom: 48px;
+}
+
+.mianone {
+    max-width: 1216px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #53389E;
+    padding: 20px;
+}
+
+.listone {
+    display: inline-block;
+}
+
+.listone a {
+    padding-top: 12px;
+    display: block;
+    text-decoration: none;
+    padding-right: 42px;
+    color: white;
+    font-size: 16px;
+
+}
+
+.listone p {
+    color: #D6BBFB;
+    font-size: 14px;
+}
+
+.mianlist {
+    display: inline;
+}
+
+.maintwo {
+    max-width: 1216px;
+    width: 100%;
+    border-top: 1px solid black;
+    margin-top: 60px;
+}
+
+.maintwoimg {
+    margin: 10px;
+    margin-left: auto;
+}
+
+
+
+
+
